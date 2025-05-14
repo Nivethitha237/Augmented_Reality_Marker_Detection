@@ -49,5 +49,7 @@ Usages :
 6. Gaming – AR board games, immersive play.
 7. Museums – Augmented exhibits, virtual guides.
 8. Real Estate – 3D building previews, virtual tours.
+
+
 Summary :
            The output demonstrates a successful AR marker detection, where the software detects a physical marker (flat surface) in the real world and overlays a 3D tree object at the corresponding position and orientation. This is commonly used in AR applications for education, gaming, visualization, and interactive media.
