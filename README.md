@@ -2,12 +2,10 @@ Augmented Reality Marker Detection
 
 
 Over View:
-           
-              Augmented Reality (AR) marker detection is a foundational technique used to overlay virtual content onto the real world by recognizing specific visual patterns (markers) in the environment. These markers act as reference points that help AR systems determine the position and orientation of the camera in 3D space, enabling accurate and stable rendering of digital objects.
+           Augmented Reality (AR) marker detection is a foundational technique used to overlay virtual content onto the real world by recognizing specific visual patterns (markers) in the environment. These markers act as reference points that help AR systems determine the position and orientation of the camera in 3D space, enabling accurate and stable rendering of digital objects.
 
 Technologies Used :
- 
-                  AR marker detection involves a combination of hardware and software technologies to recognize and track markers in real-time. Here's a breakdown of the core technologies involved:
+            AR marker detection involves a combination of hardware and software technologies to recognize and track markers in real-time. Here's a breakdown of the core technologies involved:
 
 1. Computer Vision Algorithms
 Edge Detection: Algorithms like Canny or Sobel detect edges to identify potential marker boundaries.
@@ -52,5 +50,4 @@ Usages :
 7. Museums – Augmented exhibits, virtual guides.
 8. Real Estate – 3D building previews, virtual tours.
 Summary :
-
-                     The output demonstrates a successful AR marker detection, where the software detects a physical marker (flat surface) in the real world and overlays a 3D tree object at the corresponding position and orientation. This is commonly used in AR applications for education, gaming, visualization, and interactive media.
+           The output demonstrates a successful AR marker detection, where the software detects a physical marker (flat surface) in the real world and overlays a 3D tree object at the corresponding position and orientation. This is commonly used in AR applications for education, gaming, visualization, and interactive media.
